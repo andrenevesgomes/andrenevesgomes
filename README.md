@@ -1,4 +1,4 @@
-### Hi, I'm André Gomes 👋
+# Hi, I'm André Gomes 👋
 
 
 I'm a **_FullStack_** developer 
