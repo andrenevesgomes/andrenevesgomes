@@ -1,4 +1,5 @@
-# Hi, I'm André Gomes 👋
+# Hi, I'm André Gomes 👋 
+![](https://komarev.com/ghpvc/?username=andrenevesgomes&color=red&style=flat-square)
 
 
 I'm a **_(junior) FullStack_** developer 
