@@ -66,3 +66,23 @@
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/theandregomes"/>
 
 </p>
+
+<br>
+
+<h2 align="center">Joke of the day <img src="https://media.tenor.com/images/11a861537061cf0230cf9760dc8d1195/tenor.gif" width="25"></h2>
+<div align="center">
+  
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+</div>
+
+
+<div align="center">
+ 
+## **If you want to buy me a cookie and, maybe, chat a little bit, click below** 👇
+<br>
+
+<a href="https://www.buymeacoffee.com/andregomes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cookie&emoji=🍪&slug=andregomes&button_colour=FF5F5F&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00"></a>
+ 
+</div>
+
