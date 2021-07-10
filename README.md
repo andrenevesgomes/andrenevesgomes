@@ -87,7 +87,11 @@
 ## **If you want to buy me a cookie and, maybe, chat a little bit, click below** 👇
 <br>
 
-<a href="https://www.buymeacoffee.com/andregomes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cookie&emoji=🍪&slug=andregomes&button_colour=FF5F5F&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00"></a>
+ <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7H44KRAPSWHLL">
+  <img alt="LinkedIn" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpixelartmaker.com%2Fart%2Fb463306ebcff9cd.png&f=1&nofb=1" width="250">
+</a>
+ 
+
  
 </div>
 
