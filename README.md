@@ -44,16 +44,16 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=andrenevesgomes&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=andrenevesgomes&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=andrenevesgomes&count_private=true&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=andrenevesgomes&count_private=true&theme=radical">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=andrenevesgomes&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=andrenevesgomes&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=andrenevesgomes&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=andrenevesgomes&count_private=true&theme=redical">
 </p> 
 
 <h2 align="center">Reach me on <img src="https://media1.giphy.com/media/rcPN2OGKSj80ZGRnNM/giphy.gif?cid=790b7611bc04242dc7de48dcafc71bcaab84f4d77c51ccd6&rid=giphy.gif&ct=s" width="50"></h2>
