@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
- <s>I'm a 2nd year student pursuing degree in Multimedia Engineering</s> I'm <b> <u>Multimedia Engineer</u> </b> from <a href="https://www.istec.pt/index.php/en/eng_engenharia-multimedia">ISTEC</a> 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve new challenges✨. Apart from that I also love to help newbies and everything related with space 👨🏻‍💻. I’m currently working on <b>everything!</b> (SQL, C#, CSS, <a href="http://bit.ly/projeto-europeu" target="_blank">WordPress</a>, <a href="http://bit.ly/Behance-Andre" target="_blank">Design</a>, <a href="http://bit.ly/linkedin-altyra" target="_blank">Social Media</a>, QA, you name it) 🤓.
+ <s>I'm a 2nd year student pursuing degree in Multimedia Engineering</s> I'm <b><u>Multimedia Engineer</u></b>(🥳🎉) from <a href="https://www.istec.pt/index.php/en/eng_engenharia-multimedia">ISTEC</a> 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve new challenges✨. Apart from that I also love to help newbies and everything related with space 👨🏻‍💻. I’m currently working on <b>everything!</b> (SQL, C#, CSS, <a href="http://bit.ly/projeto-europeu" target="_blank">WordPress</a>, <a href="http://bit.ly/Behance-Andre" target="_blank">Design</a>, <a href="http://bit.ly/linkedin-altyra" target="_blank">Social Media</a>, QA, you name it) 🤓.
 </p>  
 
 <h2 align="center">Technology Stack <img src="https://media.tenor.com/images/4f3cbf79126b8ca4442fe7612cf09783/tenor.gif" width="25"></h2>
