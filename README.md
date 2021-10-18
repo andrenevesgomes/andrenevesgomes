@@ -5,7 +5,7 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/andrenevesgomes/andrenevesgomes"/> 
+ <img src="https://gpvc.arturio.dev/andrenevesgomes"/> 
  <!-- <img src="https://badges.pufler.dev/years/andrenevesgomes"/> -->
  <img src="https://badges.pufler.dev/repos/andrenevesgomes"/>
  <img src="https://badges.pufler.dev/commits/monthly/andrenevesgomes" />
