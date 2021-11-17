@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/andrenevesgomes/andrenevesgomes/blob/888cd93917a9a16dd2d91ee94559f2c656bb184c/Images/header.png" />
+<img src="https://github.com/andrenevesgomes/andrenevesgomes/blob/main/Images/banner-GH-2.png" />
 
 <p align="center">
  
