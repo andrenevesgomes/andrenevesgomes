@@ -61,7 +61,7 @@
 
 <p align="center">
   
-<a href="mailto:andrenevesgomes@protonmail.com?subject=Hi!👋">
+<a href="mailto:andreneves.gomes@protonmail.com?subject=Hi!👋">
   <img alt="Proton" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
 </a>
 <a href="http://bit.ly/LinkedIn-Andre">
