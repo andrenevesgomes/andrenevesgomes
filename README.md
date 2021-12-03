@@ -75,7 +75,7 @@
 
 <br>
 
-<h2 align="center">Joke of the day <img src="https://media.tenor.com/images/11a861537061cf0230cf9760dc8d1195/tenor.gif" width="25"></h2>
+
 <div align="center">
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
