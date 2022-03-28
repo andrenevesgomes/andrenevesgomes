@@ -89,7 +89,7 @@
 <br>
 
  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7H44KRAPSWHLL">
-  <img alt="PayPal" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpixelartmaker.com%2Fart%2Fb463306ebcff9cd.png&f=1&nofb=1" width="250">
+  <img alt="PayPal" src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" width="250">
 </a>
  
 
