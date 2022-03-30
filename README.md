@@ -1,15 +1,10 @@
-<p align="center">
- 
-</p align="center">
-<img src="https://github.com/andrenevesgomes/andrenevesgomes/blob/main/Images/banner-GH-2.png" />
+<img alt="Welcome Banner!" src="https://github.com/andrenevesgomes/andrenevesgomes/blob/main/Images/banner-GH-2.png" />
 
 <p align="center">
- 
- <img src="https://gpvc.arturio.dev/andrenevesgomes"/> 
+ <img alt="Profile Views" src="https://gpvc.arturio.dev/andrenevesgomes"/> 
  <!-- <img src="https://badges.pufler.dev/years/andrenevesgomes"/> -->
- <img src="https://badges.pufler.dev/repos/andrenevesgomes"/>
- <img src="https://badges.pufler.dev/commits/monthly/andrenevesgomes" />
-
+ <img alt="Repos" src="https://badges.pufler.dev/repos/andrenevesgomes"/>
+ <img alt="Commits this month" src="https://badges.pufler.dev/commits/monthly/andrenevesgomes" />
 </p>
 
 <p align="center">
@@ -18,27 +13,45 @@
 
 <h2 align="center">Technology Stack <img src="https://media.tenor.com/images/4f3cbf79126b8ca4442fe7612cf09783/tenor.gif" width="25"></h2>
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<a href="https://gitlab.com/theandregomes"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<!-- #region LANGUAGES & FRAMEWORKS -->
+#### 
+<p align="center"> 
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="JQUERY" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img alt="MARKDOWN" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
+<!-- #endregion -->
+
+<!-- #region TOOLS -->
+#### 
+<p align="center"> 
+<img alt="VISUAL STUDIO" src="https://img.shields.io/badge/Visual_Studio-6c4ea4?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img alt="VS CODE" src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+<img alt="GIT" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://gitlab.com/theandregomes"><img alt="GITLAB" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+<img alt="FAVRO" src="https://img.shields.io/badge/FAVRO-512da8?style=for-the-badge&logo=FAVRO&logoColor=white"/>
+</p> 
+<!-- #endregion -->
+
+<!-- #region OS -->
+#### 
+<p align="center"> 
+<img alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img alt="UBUNTU" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img alt="MACOS" src="https://img.shields.io/badge/Macos-666666?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
+<!-- #endregion -->
 
 
 <h2 align="center">
-  My Github Stats <img src="https://media.tenor.com/images/18356ed09a7d70afb336939d5f34b572/tenor.gif" width="25">
+  My Github Stats <img alt="Stats GIF" src="https://media.tenor.com/images/18356ed09a7d70afb336939d5f34b572/tenor.gif" width="25">
 </h2>
  
 <br>
@@ -50,11 +63,11 @@
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=andrenevesgomes&count_private=true&show_icons=true&locale=en&layout=compact&theme=react&line_height=0" />
+ <img alt="Commits Count" src="https://github-readme-streak-stats.herokuapp.com/?user=andrenevesgomes&count_private=true&show_icons=true&locale=en&layout=compact&theme=react&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=andrenevesgomes&count_private=true&theme=react-dark">
+ <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=andrenevesgomes&count_private=true&theme=react-dark">
 </p> 
 
 <h2 align="center">Reach me on <img src="https://media1.giphy.com/media/rcPN2OGKSj80ZGRnNM/giphy.gif?cid=790b7611bc04242dc7de48dcafc71bcaab84f4d77c51ccd6&rid=giphy.gif&ct=s" width="50"></h2>
@@ -75,7 +88,7 @@
 
 <br>
 
-<h2 align="center">Joke of the day <img src="https://media.tenor.com/images/11a861537061cf0230cf9760dc8d1195/tenor.gif" width="25"></h2>
+<h2 align="center">Joke of the day <img alt="Laughing Pepe" src="https://media.tenor.com/images/11a861537061cf0230cf9760dc8d1195/tenor.gif" width="25"></h2>
 <div align="center">
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
