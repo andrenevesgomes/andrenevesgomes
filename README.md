@@ -91,8 +91,10 @@
 <h2 align="center">Joke of the day <img alt="Laughing Pepe" src="https://media.tenor.com/images/11a861537061cf0230cf9760dc8d1195/tenor.gif" width="25"></h2>
 <div align="center">
   
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<a href="https://readme-jokes.vercel.app/api">
+  <img alt="Joke" src="https://readme-jokes.vercel.app/api" width="357px">
+</a>
 </div>
 
 
@@ -101,8 +103,8 @@
 ## **If you want to buy me a cookie and, maybe, chat a little bit, click below** 👇
 <br>
 
- <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7H44KRAPSWHLL">
-  <img alt="PayPal" src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/925c5a9e397363c6f7a477973fdeed485df5fdd9/blue.svg" width="250">
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7H44KRAPSWHLL">
+  <img alt="PayPal" src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/925c5a9e397363c6f7a477973fdeed485df5fdd9/blue.svg" width="357px">
 </a>
  
 
