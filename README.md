@@ -102,7 +102,7 @@
 <br>
 
  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7H44KRAPSWHLL">
-  <img alt="PayPal" src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" width="250">
+  <img alt="PayPal" src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/925c5a9e397363c6f7a477973fdeed485df5fdd9/blue.svg" width="250">
 </a>
  
 
