@@ -3,8 +3,9 @@
 <p align="center">
  <img alt="Profile Views" src="https://gpvc.arturio.dev/andrenevesgomes"/> 
  <!-- <img src="https://badges.pufler.dev/years/andrenevesgomes"/> -->
- <img alt="Repos" src="https://badges.pufler.dev/repos/andrenevesgomes"/>
- <img alt="Commits this month" src="https://badges.pufler.dev/commits/monthly/andrenevesgomes" />
+ <img alt="Repos" src="https://badges.strrl.dev/repos/andrenevesgomes"/>
+ <img alt="Commits this month" src="https://badges.strrl.dev/contributions/monthly/andrenevesgomes" />
+ <img alt="Issues & PRs this month" src="https://badges.strrl.dev/issues-and-prs/monthly/andrenevesgomes" />
 </p>
 
 <p align="center">
