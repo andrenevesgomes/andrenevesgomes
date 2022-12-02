@@ -32,7 +32,9 @@
 #### 
 <p align="center"> 
 <img alt="VISUAL STUDIO" src="https://img.shields.io/badge/Visual_Studio-6c4ea4?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img alt="RIDER" src="https://img.shields.io/badge/rider-ec1d96?style=for-the-badge&logo=rider&logoColor=white"/>
 <img alt="VS CODE" src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img alt="WEBSTORM" src="https://img.shields.io/badge/webstorm-d2ea5e?style=for-the-badge&logo=webstorm&logoColor=black"/>
 <img alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <img alt="GIT" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
