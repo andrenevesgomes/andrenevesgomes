@@ -1,4 +1,4 @@
-<img alt="Welcome Banner!" src="https://github.com/andrenevesgomes/andrenevesgomes/blob/main/Images/banner-GH-2.png" />
+<img alt="Welcome Banner!" src="https://github.com/andrenevesgomes/andrenevesgomes/blob/main/Images/banner-GH.png" />
 
 <p align="center">
  <img alt="Profile Views" src="https://gpvc.arturio.dev/andrenevesgomes"/> 
