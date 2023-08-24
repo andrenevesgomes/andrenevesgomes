@@ -40,9 +40,10 @@
 <img alt="GIT" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <a href="https://gitlab.com/theandregomes"><img alt="GITLAB" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
- <a href="https://codepen.io/andrenevesgomes"><img alt="CODEPEN" src="https://img.shields.io/badge/CodePen-100000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+<a href="https://codepen.io/andrenevesgomes"><img alt="CODEPEN" src="https://img.shields.io/badge/CodePen-100000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 
 <img alt="FAVRO" src="https://img.shields.io/badge/FAVRO-512da8?style=for-the-badge&logo=FAVRO&logoColor=white"/>
+<img alt="k6" src="https://img.shields.io/badge/k6-7e64ff?style=for-the-badge&logo=k6&logoColor=white"/>
 </p> 
 <!-- #endregion -->
 
