@@ -1,7 +1,7 @@
 <img alt="Welcome Banner!" src="https://github.com/andrenevesgomes/andrenevesgomes/blob/main/Images/banner-GH.png" />
 
 <p align="center">
- <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=andrenevesgomes"/> 
+ <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=andrenevesgomes&color=brightgreen"/> 
  <!-- <img src="https://badges.pufler.dev/years/andrenevesgomes"/> -->
  <img alt="Repos" src="https://badges.strrl.dev/repos/andrenevesgomes"/>
  <img alt="Commits this month" src="https://badges.strrl.dev/contributions/monthly/andrenevesgomes" />
